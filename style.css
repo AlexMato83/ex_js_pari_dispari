@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: cover;
+  background-position: 50px -150px;
+}
+
+#text {
+  position: absolute;
+  top:50px;
+  left:20px;
+}
